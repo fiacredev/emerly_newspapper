@@ -3,7 +3,7 @@ import Providers from "./providers";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "The Wave News | Admin Portal",
+  title: "The Wave News",
   description: "Newsroom management platform",
 };
 
